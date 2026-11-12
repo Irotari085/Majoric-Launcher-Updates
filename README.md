@@ -1,1 +1,1 @@
-# Majoric-Launcher
+# Majoric-Launcher-Updates
